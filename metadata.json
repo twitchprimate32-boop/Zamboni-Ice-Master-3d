@@ -1,0 +1,6 @@
+{
+  "name": "Zamboni Ice Master 3D",
+  "description": "Drive a heavy ice resurfacer to cut, wash, and resurface professional hockey rinks before faceoff and during intermissions against the game clock!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
